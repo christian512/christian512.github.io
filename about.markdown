@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hey! 
+In this blog I will report about the progress 
+of my [Google Summer of Code](https://summerofcode.withgoogle.com/) project.
+I will work on [QuTiP (Quantum Toolbox in Python)](qutip.org), which is 
+supported by the [NumFocus](https://numfocus.org/) umbrella organization.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can read more about my project [here](https://summerofcode.withgoogle.com/programs/2022/projects/Acz1NBSg).
