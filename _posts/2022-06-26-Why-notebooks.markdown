@@ -52,7 +52,7 @@ All that requires that there are enough annotations in the notebooks, which is w
   qutip.groundstate`
 * [PR-19](https://github.com/qutip/qutip-tutorials/pull/19) - Add the
   Lectures to qutip-tutorials and update them to work with the current release
-* [PR-21](https://github.com/qutip/qutip-tutorials/pull/21) - Format the
-  existing notebooks and port 2 two v5
+* [PR-22](https://github.com/qutip/qutip-tutorials/pull/22) - Format the
+  existing notebooks for PEP8, add check to pipeline and convert two notebooks for v5
 
 
