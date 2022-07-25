@@ -5,7 +5,7 @@ title:  "Floquet formalism"
 <figure style="float: right; padding-left: 50px">
 <img src="/assets/hammock.jpg" 
 alt="img" width="240"/>
-<figcaption>Getting a feel of periodic systems <br> in the balcony hammock.</figcaption>
+<figcaption>Getting an idea of periodic systems <br> in the balcony hammock.</figcaption>
 </figure>
 
 Similar to the last weeks, I have recently finished my work on another solver for the Schrödinger
@@ -50,7 +50,7 @@ The dissipative version of the Floquet formalism is derived in
 [this paper](https://www.sciencedirect.com/science/article/abs/pii/S0370157398000222).
 The paper gives a
 compact form of the master equation for the systems' density matrix, which is then implemented in
-QuTiP. I have added a small part of this derivation to the [QuTiP docs]() to show the exact
+QuTiP. I have added a small part of this derivation to the [QuTiP docs](https://qutip.org/docs/latest/guide/dynamics/dynamics-floquet.html) to show the exact
 quantities implemented in QuTiP.
 
 In this approach the coupling operators and the density matrix of the system are decomposed in the
